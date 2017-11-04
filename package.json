@@ -6,7 +6,8 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "semantic-ui-css": "^2.2.12",
-    "semantic-ui-react": "^0.75.1"
+    "semantic-ui-react": "^0.75.1",
+    "uuid": "^3.1.0"
   },
   "devDependencies": {
     "react-scripts": "1.0.16"
